@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // bla
     @IBOutlet weak var lblPeso: UILabel!
     @IBOutlet weak var lblResultado: UILabel!
     @IBOutlet weak var sliPeso: UISlider!
